@@ -1,10 +1,10 @@
 # SiAkademik ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)&nbsp;![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammadzhuhry%2FSistem-Informasi-Akademik)
 
-**SiAkademik** is an system information that can be used by school or other to help them manage their data academic. This system was created by CodeIgniter 3.1.5
+**SiAkademik** is an system information that can be used by school or other to help them manage their academic data. This system was created by CodeIgniter 3.1.5
 
 Feature
 ----------
-- 4 Login Level (can be added later)
+- 4 Login Level (dynamic || can be added by yourself)
 - Login With Session
 - CRUD Siswa(Students)
 - Import Data Siswa(Students) via Csv
